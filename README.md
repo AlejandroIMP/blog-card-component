@@ -20,7 +20,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/AlejandroIMP/blog-card-component)
-- Live Site URL: [Blog](https://qr-component-frontend-imp.netlify.app/)
+- Live Site URL: [Blog](https://blog-card-component-frontend.netlify.app/)
 
 ## My process
 
